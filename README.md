@@ -2,4 +2,4 @@ For use your api ai keys have problem ? this free plan can run with your api key
 
 
 
-for install just deploy .js file 
+for install just deploy .js file
